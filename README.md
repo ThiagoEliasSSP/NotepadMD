@@ -4,6 +4,6 @@
 
 ## Author 👤 **Thiago Elias**
 
-<p>📸Instagram: [@Thiagoessp](https://www.instagram.com/thiagoessp/)</p>
-💻Github: [@ThiagoEliasSSP](https://github.com/ThiagoEliasSSP  )
-📑LinkedIn: [@ThiagoElias](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/thiago-elias-a21311172)
+* 📸Instagram: [@Thiagoessp](https://www.instagram.com/thiagoessp/)
+* 💻Github: [@ThiagoEliasSSP](https://github.com/ThiagoEliasSSP  )
+* 📑LinkedIn: [@ThiagoElias](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/thiago-elias-a21311172)
